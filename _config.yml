@@ -1,0 +1,47 @@
+# Set theme
+remote_theme: daviddarnes/alembic@main
+
+# File excludes
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+
+# Set plugins
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
+- jekyll-remote-theme
+
+# Site settings
+url: 'https://mydomain.com'
+baseurl: ''
+title: 'Jannatul Chhoa'
+description: 'This is my new website'
+permalink: pretty
+logo: "/images/logo_name.png"
+
+# Pagination
+paginate: 5
+paginate_path: blog/page:num
+
+# Header nav
+navigation_header:
+- title: Home
+  url: /
+- title: Contact
+  url: /contact/
+- title: My pup
+  url: /pup/
+
+# Footer nav
+navigation_footer:
+- title: Back to top
+  url: "#top"
