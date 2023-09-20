@@ -10,6 +10,6 @@ I am a PhD candidate in the Mathematics Department at University of Houston. I a
 
 # Education
 
-- **Ph.D.** Computational Mathematics, University of Houston, May 2025 (Expected)
-- **M.S.**  Applied Mathematics, The University of Southern Mississippi, July 2020
+- **Ph.D.** Mathematics, University of Houston, May 2025 (Expected)
+- **M.S.** Mathematics, The University of Southern Mississippi, July 2020
 - **B.S.** Mathematics, University of Dhaka, December 2016
