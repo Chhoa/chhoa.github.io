@@ -6,7 +6,7 @@ feature_image: "/images/cover.jpeg"
 
 # About me
 
-I am a PhD candidate in the Mathematics Department at University of Houston. I am part of the [SCOPA](https://scopagroup.github.io) (Scientific Computing, Optimization, and Parallel Algorithms) lab working under the mentorship of [Andreas Mang](https://www.math.uh.edu/~andreas/).
+I am a PhD candidate in the Mathematics Department at University of Houston. I am part of the [SCOPA](https://scopagroup.github.io) (Scientific Computing, Optimization, and Parallel Algorithms) lab working under the advisement of [Andreas Mang](https://www.math.uh.edu/~andreas/).
 
 # Education
 
