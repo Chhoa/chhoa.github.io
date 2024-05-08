@@ -16,5 +16,5 @@ I am a PhD candidate in the Mathematics Department at University of Houston. I a
 
 # Future events
 
-- _05/2024_ I will be presenting my research at [SIAM Conference on Imaging Science](https://www.siam.org/conferences/cm/conference/is24) (IS24), Atlanta, GA, US.
+- _05/2024_ I will be presenting my research at SIAM Conference on Imaging Science ([IS24](https://www.siam.org/conferences/cm/conference/is24)), Atlanta, GA, US.
 - _06/2024_ I will be participating in the American Mathematical Society's Mathematics Research Community (MRC) summer conference on Mathematics of Adversarial, Interpretable, and Explainable AI, Java Center, NY, US.
