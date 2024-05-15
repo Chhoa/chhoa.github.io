@@ -45,3 +45,12 @@ navigation_header:
 navigation_footer:
 - title: adopted theme alembic
   url: "https://github.com/daviddarnes/alembic"
+
+- title: GitHub
+  url: "https://github.com/yourusername"
+  icon: "/images/github.svg"
+
+- title: LinkedIn
+  url: "https://www.linkedin.com/in/yourprofile/"
+  icon: "/images/linkedin.svg"
+
