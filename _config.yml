@@ -45,11 +45,11 @@ navigation_header:
 navigation_footer:
 - title: GitHub
   url: "https://github.com/Chhoa"
-  icon: "/images/github.png"
+  logo: "/images/github.png"
 
 - title: LinkedIn
   url: "https://www.linkedin.com/in/jannatul-ferdous-chhoa-4199151b5/"
-  icon: "/images/linkedin.png"
+  logo: "/images/linkedin.png"
 
 - title: adopted theme alembic
   url: "https://github.com/daviddarnes/alembic"
