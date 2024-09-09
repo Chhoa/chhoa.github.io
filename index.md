@@ -16,5 +16,5 @@ I am a PhD candidate in the Mathematics Department at University of Houston. I a
 
 ## Events
 
-- _05/2024_ \| I presented some of our recent research at the mini-symposium entitled Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities at SIAM Conference on Imaging Science ([IS24](https://www.siam.org/conferences/cm/conference/is24)), Atlanta, GA, US.
+- _05/2024_ \| I presented some of our research at the mini-symposium entitled Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities at SIAM Conference on Imaging Science ([IS24](https://www.siam.org/conferences/cm/conference/is24)), Atlanta, GA, US.
 - _06/2024_ \| I participated in the American Mathematical Society's Mathematics Research Community ([MRC](https://www.ams.org/programs/research-communities/2024MRC-AI)) conference on Mathematics of Adversarial, Interpretable, and Explainable AI, Java Center, NY, US.
