@@ -19,7 +19,7 @@ I am a final-year PhD student in the Mathematics Department at **University of H
 - Multigrid Preconditioning of the Reduced Space Hessian for Optimal Control Problems Governed by Transport Equations, *in preparation.*<br>*__J. Chhoa__, Y. He, and A. Mang.*  
   
 
-- Supervised Dimension Reduction via Local Gradient Elongation, *accepted October 2024, WiSDM 2023 Springer Proceedings "Advances in Data Science".*<br>*__J. Chhoa__, L. Huang, A. Little, A. Maurais, K. Morris, M. van der Walt, G. Verma, and R. Wang.*  
+- Supervised Dimension Reduction via Local Gradient Elongation, *[accepted](https://link.springer.com/book/9783031878039) October 2024, WiSDM 2023 Springer Proceedings "Advances in Data Science".*<br>*__J. Chhoa__, L. Huang, A. Little, A. Maurais, K. Morris, M. van der Walt, G. Verma, and R. Wang.*  
   
 
 - Metric Properties of Partial and Robust Gromov-Wasserstein Distances, *[preprint](https://arxiv.org/abs/2411.02198) published November 2024.*<br>*__J. Chhoa__, M. Ivanitskiy, F. Jiang, S. Li, D. McBride, T. Needham, and K. O'Hare.*  
