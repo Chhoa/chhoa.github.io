@@ -16,7 +16,7 @@ I am a final-year PhD student in the Mathematics Department at **University of H
 
 ## Publications
 
-- **Multigrid Preconditioning of the Reduced Space Hessian for Optimal Control Problems Governed by Transport Equations**, *in preparation.* 
+- **Multigrid Preconditioning of the Reduced Space Hessian for Optimal Control Problems Governed by Transport Equations**, *in preparation.*
   *__J. Chhoa__, Y. He, and A. Mang.*  
   
 
