@@ -16,28 +16,28 @@ I am a final-year PhD student in the Mathematics Department at **University of H
 
 ## Publications
 
-- **Multigrid Preconditioning of the Reduced Space Hessian for Optimal Control Problems Governed by Transport Equations**, *in preparation.*
+- Multigrid Preconditioning of the Reduced Space Hessian for Optimal Control Problems Governed by Transport Equations, *in preparation.*
   *__J. Chhoa__, Y. He, and A. Mang.*  
   
 
-- **Supervised Dimension Reduction via Local Gradient Elongation**, *accepted October 2024, WiSDM 2023 Springer Proceedings — "Advances in Data Science".*  
+- Supervised Dimension Reduction via Local Gradient Elongation, *accepted October 2024, WiSDM 2023 Springer Proceedings — "Advances in Data Science".*  
   *__J. Chhoa__, L. Huang, A. Little, A. Maurais, K. Morris, M. van der Walt, G. Verma, and R. Wang.*  
   
 
-- **Metric Properties of Partial and Robust Gromov-Wasserstein Distances**, *[preprint](https://arxiv.org/abs/2411.02198) published November 2024.*  
+- Metric Properties of Partial and Robust Gromov-Wasserstein Distances, *[preprint](https://arxiv.org/abs/2411.02198) published November 2024.*  
   *__J. Chhoa__, M. Ivanitskiy, F. Jiang, S. Li, D. McBride, T. Needham, and K. O'Hare.*  
  
 
 
 ## Events
 
-- _08/2025_ \| I am going to participate in the **2025 Research Collaboration Workshop in Science of Data and Mathematics** ([WiSDM](https://datascience.unc.edu/wisdm-2025/)) conference, University of North Carolina, Chapel Hill, NC.
+- _08/2025_ \| I am going to participate in the 2025 Research Collaboration Workshop in Science of Data and Mathematics ([WiSDM](https://datascience.unc.edu/wisdm-2025/)) conference, University of North Carolina, Chapel Hill, NC.
 
-- _08/2025_ \| I am going to participate in the Research Collaboration Workshop, “**Randomized Numerical Linear Algebra**” ([RNLA](https://www.ipam.ucla.edu/programs/special-events-and-conferences/research-collaboration-workshop-randomized-numerical-linear-algebra-rnla/?tab=overview)) by Institute for Pure & Applied Mathematics – UCLA, Los Angeles, CA.
+- _08/2025_ \| I am going to participate in the Research Collaboration Workshop, “Randomized Numerical Linear Algebra” ([RNLA](https://www.ipam.ucla.edu/programs/special-events-and-conferences/research-collaboration-workshop-randomized-numerical-linear-algebra-rnla/?tab=overview)) by Institute for Pure & Applied Mathematics – UCLA, Los Angeles, CA.
 
-- _03/2025_ \| I presented my research at the **Methods for Image Processing and Numerical Modeling in Computational Medicine Part I** mini-symposium, SIAM Conference on Computational Science and Engineering ([CSE25](https://www.siam.org/conferences-events/past-event-archive/cse25)), Fort Worth, TX.
+- _03/2025_ \| I presented my research at the Methods for Image Processing and Numerical Modeling in Computational Medicine Part I mini-symposium, SIAM Conference on Computational Science and Engineering ([CSE25](https://www.siam.org/conferences-events/past-event-archive/cse25)), Fort Worth, TX.
 
-- _05/2024_ \| I presented my research at the **Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities** mini-symposium, SIAM Conference on Imaging Science ([IS24](https://www.siam.org/conferences/cm/conference/is24)), Atlanta, GA.
+- _05/2024_ \| I presented my research at the Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities mini-symposium, SIAM Conference on Imaging Science ([IS24](https://www.siam.org/conferences/cm/conference/is24)), Atlanta, GA.
 
-- _06/2024_ \| I participated in the **American Mathematical Society's Mathematics Research Community** ([MRC](https://www.ams.org/programs/research-communities/2024MRC-AI)) conference on Mathematics of Adversarial, Interpretable, and Explainable AI, Java Center, NY.
+- _06/2024_ \| I participated in the American Mathematical Society's Mathematics Research Community ([MRC](https://www.ams.org/programs/research-communities/2024MRC-AI)) conference on Mathematics of Adversarial, Interpretable, and Explainable AI, Java Center, NY.
 
