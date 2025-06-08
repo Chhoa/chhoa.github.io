@@ -32,7 +32,7 @@ I am a final-year PhD student in the Mathematics Department at **University of H
 
 - _03/2025_ \| I presented my research at the Methods for Image Processing and Numerical Modeling in Computational Medicine Part I mini-symposium, SIAM Conference on Computational Science and Engineering ([CSE25](https://www.siam.org/conferences-events/past-event-archive/cse25)), Fort Worth, TX.
 
-- _05/2024_ \| I presented my research at the Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities mini-symposium, SIAM Conference on Imaging Science ([IS24](https://www.siam.org/conferences/cm/conference/is24)), Atlanta, GA.
-
 - _06/2024_ \| I participated in the American Mathematical Society's Mathematics Research Community ([MRC](https://www.ams.org/programs/research-communities/2024MRC-AI)) conference on Mathematics of Adversarial, Interpretable, and Explainable AI, Java Center, NY.
+
+- _05/2024_ \| I presented my research at the Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities mini-symposium, SIAM Conference on Imaging Science ([IS24](https://www.siam.org/conferences/cm/conference/is24)), Atlanta, GA.
 
