@@ -31,13 +31,13 @@ I am a final-year PhD student in the Mathematics Department at **University of H
 
 ## Events
 
-- **08/2025** | I am going to participate in the **2025 Research Collaboration Workshop in Science of Data and Mathematics** ([WiSDM](https://datascience.unc.edu/wisdm-2025/)) conference, University of North Carolina, Chapel Hill, US.
+- **08/2025** | I am going to participate in the **2025 Research Collaboration Workshop in Science of Data and Mathematics** ([WiSDM](https://datascience.unc.edu/wisdm-2025/)) conference, University of North Carolina, Chapel Hill, NC.
 
-- **08/2025** | I am going to participate in the Research Collaboration Workshop, “**Randomized Numerical Linear Algebra**” ([RNLA](https://www.ipam.ucla.edu/programs/special-events-and-conferences/research-collaboration-workshop-randomized-numerical-linear-algebra-rnla/?tab=overview)) by Institute for Pure & Applied Mathematics – UCLA, Los Angeles, US.
+- **08/2025** | I am going to participate in the Research Collaboration Workshop, “**Randomized Numerical Linear Algebra**” ([RNLA](https://www.ipam.ucla.edu/programs/special-events-and-conferences/research-collaboration-workshop-randomized-numerical-linear-algebra-rnla/?tab=overview)) by Institute for Pure & Applied Mathematics – UCLA, Los Angeles, CA.
 
 - **03/2025** | I presented my research at the **Methods for Image Processing and Numerical Modeling in Computational Medicine Part I** mini-symposium, SIAM Conference on Computational Science and Engineering ([CSE25](https://www.siam.org/conferences-events/past-event-archive/cse25)), Fort Worth, TX.
 
-- **05/2024** | I presented my research at the **Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities** mini-symposium, SIAM Conference on Imaging Science ([IS24](https://www.siam.org/conferences/cm/conference/is24)), Atlanta, GA, US.
+- **05/2024** | I presented my research at the **Frontiers in Deep Image Reconstruction, Restoration Across Diverse Modalities** mini-symposium, SIAM Conference on Imaging Science ([IS24](https://www.siam.org/conferences/cm/conference/is24)), Atlanta, GA.
 
-- **06/2024** | I participated in the **American Mathematical Society's Mathematics Research Community** ([MRC](https://www.ams.org/programs/research-communities/2024MRC-AI)) conference on Mathematics of Adversarial, Interpretable, and Explainable AI, Java Center, NY, US.
+- **06/2024** | I participated in the **American Mathematical Society's Mathematics Research Community** ([MRC](https://www.ams.org/programs/research-communities/2024MRC-AI)) conference on Mathematics of Adversarial, Interpretable, and Explainable AI, Java Center, NY.
 
