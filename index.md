@@ -26,7 +26,7 @@ I am a final-year PhD student in the Mathematics Department at **University of H
 ## Events
 
 - _08/2025_ \| I am going to participate in the Research Collaboration Workshop, “Randomized Numerical Linear Algebra” ([RNLA](https://www.ipam.ucla.edu/programs/special-events-and-conferences/research-collaboration-workshop-randomized-numerical-linear-algebra-rnla/?tab=overview)), Institute for Pure & Applied Mathematics – UCLA, Los Angeles, CA.
-- 
+
 - _08/2025_ \| I am going to participate in the 2025 Research Collaboration Workshop in Science of Data and Mathematics ([WiSDM](https://datascience.unc.edu/wisdm-2025/)) conference, University of North Carolina, Chapel Hill, NC.
 
 - _03/2025_ \| I presented my research at the Methods for Image Processing and Numerical Modeling in Computational Medicine Part I mini-symposium, SIAM Conference on Computational Science and Engineering ([CSE25](https://www.siam.org/conferences-events/past-event-archive/cse25)), Fort Worth, TX.
