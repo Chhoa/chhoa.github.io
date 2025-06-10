@@ -17,18 +17,17 @@ I am a final-year PhD student in the Mathematics Department at **University of H
 ## Publications
 
 - Multigrid Preconditioning of the Reduced Space Hessian for Optimal Control Problems Governed by Transport Equations, *in preparation.*<br>*__J. Chhoa__, Y. He, and A. Mang.*  
-  
+
+- Metric Properties of Partial and Robust Gromov-Wasserstein Distances, *[preprint](https://arxiv.org/abs/2411.02198) published November 2024.*<br>*__J. Chhoa__, M. Ivanitskiy, F. Jiang, S. Li, D. McBride, T. Needham, and K. O'Hare.*
 
 - Supervised Dimension Reduction via Local Gradient Elongation, *[accepted](https://link.springer.com/book/9783031878039) October 2024, WiSDM 2023 Springer Proceedings "Advances in Data Science".*<br>*__J. Chhoa__, L. Huang, A. Little, A. Maurais, K. Morris, M. van der Walt, G. Verma, and R. Wang.*  
   
 
-- Metric Properties of Partial and Robust Gromov-Wasserstein Distances, *[preprint](https://arxiv.org/abs/2411.02198) published November 2024.*<br>*__J. Chhoa__, M. Ivanitskiy, F. Jiang, S. Li, D. McBride, T. Needham, and K. O'Hare.*  
-
 ## Events
 
-- _08/2025_ \| I am going to participate in the 2025 Research Collaboration Workshop in Science of Data and Mathematics ([WiSDM](https://datascience.unc.edu/wisdm-2025/)) conference, University of North Carolina, Chapel Hill, NC.
-
 - _08/2025_ \| I am going to participate in the Research Collaboration Workshop, “Randomized Numerical Linear Algebra” ([RNLA](https://www.ipam.ucla.edu/programs/special-events-and-conferences/research-collaboration-workshop-randomized-numerical-linear-algebra-rnla/?tab=overview)), Institute for Pure & Applied Mathematics – UCLA, Los Angeles, CA.
+- 
+- _08/2025_ \| I am going to participate in the 2025 Research Collaboration Workshop in Science of Data and Mathematics ([WiSDM](https://datascience.unc.edu/wisdm-2025/)) conference, University of North Carolina, Chapel Hill, NC.
 
 - _03/2025_ \| I presented my research at the Methods for Image Processing and Numerical Modeling in Computational Medicine Part I mini-symposium, SIAM Conference on Computational Science and Engineering ([CSE25](https://www.siam.org/conferences-events/past-event-archive/cse25)), Fort Worth, TX.
 
