@@ -12,7 +12,7 @@ I am a final-year PhD student in the Mathematics Department at **University of H
 
 - **Ph.D.** Mathematics, University of Houston, August 2025
 - **M.S.** Mathematics, The University of Southern Mississippi, August 2020 ([thesis](https://aquila.usm.edu/masters_theses/762/))
-- **B.S.** Mathematics, University of Dhaka, December 2016
+- **B.S.** Mathematics, University of Dhaka, January 2017
 
 ## Publications
 
