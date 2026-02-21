@@ -22,7 +22,7 @@ I am currently an **Adjunct Professor** in the Deaprtment of Mathematics & Compu
 
 - Supervised Dimension Reduction via Local Gradient Elongation, *[accepted](https://link.springer.com/book/9783031878039) October 2024, WiSDM 2023 Springer Proceedings "Advances in Data Science".*<br>*__J. Chhoa__, L. Huang, A. Little, A. Maurais, K. Morris, M. van der Walt, G. Verma, and R. Wang.*
 
-## Teaching Experience
+## Teaching
 
 ##### __University of St. Thomas__
 
