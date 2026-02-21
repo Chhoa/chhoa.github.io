@@ -24,12 +24,12 @@ I am currently an **Adjunct Professor** in the Deaprtment of Mathematics & Compu
 
 ## Teaching Experience
 
-### University of St. Thomas
+#### University of St. Thomas
 
 - _Spring '26_ \| Calculus I, Precalculus
 - _Fall '25_ \| Precalculus
 
-### University of Houston
+#### University of Houston
 
 - _Winter '24_ \| Calculus II Lab
 - _Fall '24_ \| Calculus I Lab
@@ -40,7 +40,7 @@ I am currently an **Adjunct Professor** in the Deaprtment of Mathematics & Compu
 - _Summer '22_ \| Calculus II Lab
 - _Spring '22_ \| Accelerated Calculus Lab
 
-### The University of Southern Mississippi
+#### The University of Southern Mississippi
 
 - _Spring '20_ \| Calculus I with Analytic Geometry
 - _Fall '19_ \| College Algebra
