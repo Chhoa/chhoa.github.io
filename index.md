@@ -36,23 +36,23 @@ _Winter '24_ \| Calculus II Lab
 <br>
 _Fall '24_ \| Calculus I Lab
 <br>
-> _Winter '23_ \| Calculus II Lab
+_Winter '23_ \| Calculus II Lab
 <br>
-> _Fall '23_ \| Calculus III Lab
+_Fall '23_ \| Calculus III Lab
 <br>
-> _Winter '22_ \| Calculus II Lab
+_Winter '22_ \| Calculus II Lab
 <br>
-> _Fall '22_ \| Calculus III Lab
+_Fall '22_ \| Calculus III Lab
 <br>
-> _Summer '22_ \| Calculus II Lab
+_Summer '22_ \| Calculus II Lab
 <br>
-> _Spring '22_ \| Accelerated Calculus Lab
+_Spring '22_ \| Accelerated Calculus Lab
 
 ##### __The University of Southern Mississippi__
 
-> _Spring '20_ \| Calculus I with Analytic Geometry
+_Spring '20_ \| Calculus I with Analytic Geometry
 <br>
-> _Fall '19_ \| College Algebra
+_Fall '19_ \| College Algebra
 
 
   
