@@ -24,7 +24,7 @@ plugins:
 url: 'https://mydomain.com'
 baseurl: ''
 title: 'Jannatul Chhoa'
-description: 'UH'
+description: ''
 permalink: pretty
 logo: "/images/logo_name.png"
 
