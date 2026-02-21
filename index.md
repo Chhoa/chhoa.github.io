@@ -22,27 +22,36 @@ I am currently an Adjunct Professor in the Deaprtment of Mathematics & Compuer S
 
 - Supervised Dimension Reduction via Local Gradient Elongation, *[accepted](https://link.springer.com/book/9783031878039) October 2024, WiSDM 2023 Springer Proceedings "Advances in Data Science".*<br>*__J. Chhoa__, L. Huang, A. Little, A. Maurais, K. Morris, M. van der Walt, G. Verma, and R. Wang.*
 
-## Teaching
+## Teaching Experience
 
 ### University of St. Thomas
 
 _Spring '26_ \| Calculus I, Precalculus
+
 _Fall '25_ \| Precalculus
 
 ### University of Houston
 
 _Winter '24_ \| Calculus II Lab
+
 _Fall '24_ \| Calculus I Lab
+
 _Winter '23_ \| Calculus II Lab
+
 _Fall '23_ \| Calculus III Lab
+
 _Winter '22_ \| Calculus II Lab
+
 _Fall '22_ \| Calculus III Lab
+
 _Summer '22_ \| Calculus II Lab
+
 _Spring '22_ \| Accelerated Calculus Lab
 
 ### The University of Southern Mississippi
 
 _Spring '20_ \| Calculus I with Analytic Geometry
+
 _Fall '19_ \| College Algebra
 
 
