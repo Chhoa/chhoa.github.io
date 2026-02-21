@@ -37,10 +37,8 @@ layout: page
     <h1>Contact Information</h1>
 
     <ul>
-      <li><b>Email:</b> <a href="mailto:jchhoa@uh.edu">jchhoa(at)uh(dot)edu</a></li>
+      <li><b>Email:</b> <a href="mailto:chhoa@stthom.edu">chhoa(at)stthom(dot)edu</a></li>
       <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jannatul-ferdous-chhoa-4199151b5/">Jannatul Ferdous Chhoa</a></li>
-      <li><b>Office:</b> <a href="https://www.uh.edu/maps/#/find/PGH">PGH</a> 686</li>
-      <li><b>Address:</b> 3551 Cullen Blvd., Houston, TX 77004</li>
     </ul>
   </div>
 
