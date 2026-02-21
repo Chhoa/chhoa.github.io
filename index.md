@@ -20,5 +20,30 @@ I am currently an Adjunct Professor in the Deaprtment of Mathematics & Compuer S
 
 - Metric Properties of Partial and Robust Gromov-Wasserstein Distances, *[preprint](https://arxiv.org/abs/2411.02198) published November 2024.*<br>*__J. Chhoa__, M. Ivanitskiy, F. Jiang, S. Li, D. McBride, T. Needham, and K. O'Hare.*
 
-- Supervised Dimension Reduction via Local Gradient Elongation, *[accepted](https://link.springer.com/book/9783031878039) October 2024, WiSDM 2023 Springer Proceedings "Advances in Data Science".*<br>*__J. Chhoa__, L. Huang, A. Little, A. Maurais, K. Morris, M. van der Walt, G. Verma, and R. Wang.*  
+- Supervised Dimension Reduction via Local Gradient Elongation, *[accepted](https://link.springer.com/book/9783031878039) October 2024, WiSDM 2023 Springer Proceedings "Advances in Data Science".*<br>*__J. Chhoa__, L. Huang, A. Little, A. Maurais, K. Morris, M. van der Walt, G. Verma, and R. Wang.*
+
+## Teaching
+
+### University of St. Thomas
+
+_Spring '26_ \| Calculus I, Precalculus
+_Fall '25_ \| Precalculus
+
+### University of Houston
+
+_Winter '24_ \| Calculus II Lab
+_Fall '24_ \| Calculus I Lab
+_Winter '23_ \| Calculus II Lab
+_Fall '23_ \| Calculus III Lab
+_Winter '22_ \| Calculus II Lab
+_Fall '22_ \| Calculus III Lab
+_Summer '22_ \| Calculus II Lab
+_Spring '22_ \| Accelerated Calculus Lab
+
+### The University of Southern Mississippi
+
+_Spring '20_ \| Calculus I with Analytic Geometry
+_Fall '19_ \| College Algebra
+
+
   
