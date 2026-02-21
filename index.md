@@ -28,23 +28,30 @@ I am currently an **Adjunct Professor** in the Deaprtment of Mathematics & Compu
 
 _Spring '26_ \| Calculus I, Precalculus
 <br>
-<br>
 _Fall '25_ \| Precalculus
 
 ##### __University of Houston__
 
-> _Winter '24_ \| Calculus II Lab
->  _Fall '24_ \| Calculus I Lab
+_Winter '24_ \| Calculus II Lab
+<br>
+_Fall '24_ \| Calculus I Lab
+<br>
 > _Winter '23_ \| Calculus II Lab
+<br>
 > _Fall '23_ \| Calculus III Lab
+<br>
 > _Winter '22_ \| Calculus II Lab
+<br>
 > _Fall '22_ \| Calculus III Lab
+<br>
 > _Summer '22_ \| Calculus II Lab
+<br>
 > _Spring '22_ \| Accelerated Calculus Lab
 
 ##### __The University of Southern Mississippi__
 
 > _Spring '20_ \| Calculus I with Analytic Geometry
+<br>
 > _Fall '19_ \| College Algebra
 
 
