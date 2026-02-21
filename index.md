@@ -26,9 +26,9 @@ I am currently an **Adjunct Professor** in the Deaprtment of Mathematics & Compu
 
 ##### __University of St. Thomas__
 
-_Spring '26_ \| Calculus I, Precalculus
-<br>
-_Fall '25_ \| Precalculus
+>_Spring '26_ \| Calculus I, Precalculus
+><br>
+>_Fall '25_ \| Precalculus
 
 ##### __University of Houston__
 
