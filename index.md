@@ -6,7 +6,7 @@ feature_image: "/images/cover.jpeg"
 
 ## About me
 
-I am currently an Adjunct Professor in the Deaprtment of Mathematics & Compuer Science at [**University of St. Thomas**](https://www.stthom.edu). I earned my PhD in Mathematics from the Deaprtment of Mathematics at [**University of Houston**](https://www.uh.edu/nsm/math/), where I was advised by [Andreas Mang](https://www.math.uh.edu/~andreas/) and [Yunhui He](https://www.math.uh.edu/~yhe43/). My research focuses on numerical methods for **inverse problems** and **optimal control**. My PhD work involved studying optimal control problems governed by **transport equations** and designing **multigrid preconditioners** for the reduced space Hessian in **Newton-Krylov frameworks** and developing efficient solvers for large-scale optimization problems, with a particular interest in diffeomorphic image registration. My broader research interests include scientific computing, numerical linear algebra, and applications of mathematics to imaging and data science. I have also been actively involved in academic service, serving as the student advisor and president of the [UH chapter of AWM](https://uhawm.wordpress.com) (Association for Women in Mathematics). 
+I am currently an **Adjunct Professor** in the Deaprtment of Mathematics & Compuer Science at [University of St. Thomas](https://www.stthom.edu). I earned my PhD in Mathematics from the Deaprtment of Mathematics at [University of Houston](https://www.uh.edu/nsm/math/), where I was advised by [Andreas Mang](https://www.math.uh.edu/~andreas/) and [Yunhui He](https://www.math.uh.edu/~yhe43/). My research focuses on numerical methods for **inverse problems** and **optimal control**. My PhD work involved studying optimal control problems governed by **transport equations** and designing **multigrid preconditioners** for the reduced space Hessian in **Newton-Krylov frameworks** and developing efficient solvers for large-scale optimization problems, with a particular interest in diffeomorphic image registration. My broader research interests include scientific computing, numerical linear algebra, and applications of mathematics to imaging and data science. I have also been actively involved in academic service, serving as the student advisor and president of the [UH chapter of AWM](https://uhawm.wordpress.com) (Association for Women in Mathematics). 
 
 ## Education
 
@@ -26,33 +26,24 @@ I am currently an Adjunct Professor in the Deaprtment of Mathematics & Compuer S
 
 ### University of St. Thomas
 
-_Spring '26_ \| Calculus I, Precalculus
-
-_Fall '25_ \| Precalculus
+- _Spring '26_ \| Calculus I, Precalculus
+- _Fall '25_ \| Precalculus
 
 ### University of Houston
 
-_Winter '24_ \| Calculus II Lab
-
-_Fall '24_ \| Calculus I Lab
-
-_Winter '23_ \| Calculus II Lab
-
-_Fall '23_ \| Calculus III Lab
-
-_Winter '22_ \| Calculus II Lab
-
-_Fall '22_ \| Calculus III Lab
-
-_Summer '22_ \| Calculus II Lab
-
-_Spring '22_ \| Accelerated Calculus Lab
+- _Winter '24_ \| Calculus II Lab
+- _Fall '24_ \| Calculus I Lab
+- _Winter '23_ \| Calculus II Lab
+- _Fall '23_ \| Calculus III Lab
+- _Winter '22_ \| Calculus II Lab
+- _Fall '22_ \| Calculus III Lab
+- _Summer '22_ \| Calculus II Lab
+- _Spring '22_ \| Accelerated Calculus Lab
 
 ### The University of Southern Mississippi
 
-_Spring '20_ \| Calculus I with Analytic Geometry
-
-_Fall '19_ \| College Algebra
+- _Spring '20_ \| Calculus I with Analytic Geometry
+- _Fall '19_ \| College Algebra
 
 
   
