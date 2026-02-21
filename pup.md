@@ -17,6 +17,6 @@ layout: page
 
 
 <div class="image-container" style="text-align: center; margin-top: 50px;">
-  <img src="/images/jessie2025.PNG" alt="My Pup" style="max-width: 30%;">
+  <img src="/images/jessie3.PNG" alt="My Pup" style="max-width: 30%;">
   <p style="text-align: center; font-style: italic; margin-top: 10px;">My 3 years old baby girl!</p>
 </div>
